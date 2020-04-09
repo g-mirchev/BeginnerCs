@@ -1,0 +1,6 @@
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumSubstractMultiplyCalculator\bin\Debug\SumSubstractMultiplyCalculator.exe.config
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumSubstractMultiplyCalculator\bin\Debug\SumSubstractMultiplyCalculator.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumSubstractMultiplyCalculator\bin\Debug\SumSubstractMultiplyCalculator.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumSubstractMultiplyCalculator\obj\Debug\SumSubstractMultiplyCalculator.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumSubstractMultiplyCalculator\obj\Debug\SumSubstractMultiplyCalculator.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumSubstractMultiplyCalculator\obj\Debug\SumSubstractMultiplyCalculator.pdb
