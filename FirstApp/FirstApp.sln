@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRootCalculator", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumSubstractMultiplyCalculator", "..\SumSubstractMultiplyCalculator\SumSubstractMultiplyCalculator.csproj", "{DC8D07C2-8BA8-4FD0-A8AE-046B9BF820B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOutValue", "..\RefOutValue\RefOutValue.csproj", "{231BE4E2-6AD5-4E6A-871B-4C8A9076799C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{DC8D07C2-8BA8-4FD0-A8AE-046B9BF820B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC8D07C2-8BA8-4FD0-A8AE-046B9BF820B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC8D07C2-8BA8-4FD0-A8AE-046B9BF820B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{231BE4E2-6AD5-4E6A-871B-4C8A9076799C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231BE4E2-6AD5-4E6A-871B-4C8A9076799C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231BE4E2-6AD5-4E6A-871B-4C8A9076799C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231BE4E2-6AD5-4E6A-871B-4C8A9076799C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

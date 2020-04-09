@@ -1,0 +1,6 @@
+C:\K.G\DOCUMENTS\C#\BeginnerCs\RefOutValue\bin\Debug\RefOutValue.exe.config
+C:\K.G\DOCUMENTS\C#\BeginnerCs\RefOutValue\bin\Debug\RefOutValue.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\RefOutValue\bin\Debug\RefOutValue.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\RefOutValue\obj\Debug\RefOutValue.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\C#\BeginnerCs\RefOutValue\obj\Debug\RefOutValue.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\RefOutValue\obj\Debug\RefOutValue.pdb
