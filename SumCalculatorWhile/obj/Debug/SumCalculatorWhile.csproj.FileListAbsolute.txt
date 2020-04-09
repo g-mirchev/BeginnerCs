@@ -1,0 +1,6 @@
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorWhile\bin\Debug\SumCalculatorWhile.exe.config
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorWhile\bin\Debug\SumCalculatorWhile.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorWhile\bin\Debug\SumCalculatorWhile.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorWhile\obj\Debug\SumCalculatorWhile.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorWhile\obj\Debug\SumCalculatorWhile.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorWhile\obj\Debug\SumCalculatorWhile.pdb

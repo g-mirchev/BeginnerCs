@@ -1,0 +1,5 @@
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorDoWhile\bin\Debug\SumCalculatorDoWhile.exe.config
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorDoWhile\bin\Debug\SumCalculatorDoWhile.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorDoWhile\bin\Debug\SumCalculatorDoWhile.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorDoWhile\obj\Debug\SumCalculatorDoWhile.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorDoWhile\obj\Debug\SumCalculatorDoWhile.pdb

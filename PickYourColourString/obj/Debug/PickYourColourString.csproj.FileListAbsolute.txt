@@ -1,0 +1,5 @@
+C:\Users\gogom\source\repos\PickYourColourString\bin\Debug\PickYourColourString.exe.config
+C:\Users\gogom\source\repos\PickYourColourString\bin\Debug\PickYourColourString.exe
+C:\Users\gogom\source\repos\PickYourColourString\bin\Debug\PickYourColourString.pdb
+C:\Users\gogom\source\repos\PickYourColourString\obj\Debug\PickYourColourString.exe
+C:\Users\gogom\source\repos\PickYourColourString\obj\Debug\PickYourColourString.pdb

@@ -1,0 +1,6 @@
+C:\Users\gogom\source\repos\SentenceTrimmer\bin\Debug\SentenceTrimmer.exe.config
+C:\Users\gogom\source\repos\SentenceTrimmer\bin\Debug\SentenceTrimmer.exe
+C:\Users\gogom\source\repos\SentenceTrimmer\bin\Debug\SentenceTrimmer.pdb
+C:\Users\gogom\source\repos\SentenceTrimmer\obj\Debug\SentenceTrimmer.csprojAssemblyReference.cache
+C:\Users\gogom\source\repos\SentenceTrimmer\obj\Debug\SentenceTrimmer.exe
+C:\Users\gogom\source\repos\SentenceTrimmer\obj\Debug\SentenceTrimmer.pdb

@@ -1,0 +1,5 @@
+C:\Users\gogom\source\repos\NameSeperator\bin\Debug\NameSeperator.exe.config
+C:\Users\gogom\source\repos\NameSeperator\bin\Debug\NameSeperator.exe
+C:\Users\gogom\source\repos\NameSeperator\bin\Debug\NameSeperator.pdb
+C:\Users\gogom\source\repos\NameSeperator\obj\Debug\NameSeperator.exe
+C:\Users\gogom\source\repos\NameSeperator\obj\Debug\NameSeperator.pdb

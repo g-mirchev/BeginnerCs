@@ -1,0 +1,6 @@
+C:\Users\gogom\source\repos\DaysInMonth\bin\Debug\DaysInMonth.exe.config
+C:\Users\gogom\source\repos\DaysInMonth\bin\Debug\DaysInMonth.exe
+C:\Users\gogom\source\repos\DaysInMonth\bin\Debug\DaysInMonth.pdb
+C:\Users\gogom\source\repos\DaysInMonth\obj\Debug\DaysInMonth.csprojAssemblyReference.cache
+C:\Users\gogom\source\repos\DaysInMonth\obj\Debug\DaysInMonth.exe
+C:\Users\gogom\source\repos\DaysInMonth\obj\Debug\DaysInMonth.pdb

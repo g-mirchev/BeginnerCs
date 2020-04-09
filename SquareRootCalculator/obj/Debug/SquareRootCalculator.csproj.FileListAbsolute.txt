@@ -1,0 +1,6 @@
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SquareRootCalculator\bin\Debug\SquareRootCalculator.exe.config
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SquareRootCalculator\bin\Debug\SquareRootCalculator.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SquareRootCalculator\bin\Debug\SquareRootCalculator.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SquareRootCalculator\obj\Debug\SquareRootCalculator.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SquareRootCalculator\obj\Debug\SquareRootCalculator.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SquareRootCalculator\obj\Debug\SquareRootCalculator.csprojAssemblyReference.cache

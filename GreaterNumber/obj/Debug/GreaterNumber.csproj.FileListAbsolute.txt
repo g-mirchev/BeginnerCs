@@ -1,0 +1,6 @@
+C:\Users\gogom\source\repos\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+C:\Users\gogom\source\repos\GreaterNumber\bin\Debug\GreaterNumber.exe
+C:\Users\gogom\source\repos\GreaterNumber\bin\Debug\GreaterNumber.pdb
+C:\Users\gogom\source\repos\GreaterNumber\obj\Debug\GreaterNumber.csprojAssemblyReference.cache
+C:\Users\gogom\source\repos\GreaterNumber\obj\Debug\GreaterNumber.exe
+C:\Users\gogom\source\repos\GreaterNumber\obj\Debug\GreaterNumber.pdb

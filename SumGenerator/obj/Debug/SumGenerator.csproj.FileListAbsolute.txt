@@ -1,0 +1,6 @@
+C:\Users\gogom\source\repos\SumGenerator\bin\Debug\SumGenerator.exe.config
+C:\Users\gogom\source\repos\SumGenerator\bin\Debug\SumGenerator.exe
+C:\Users\gogom\source\repos\SumGenerator\bin\Debug\SumGenerator.pdb
+C:\Users\gogom\source\repos\SumGenerator\obj\Debug\SumGenerator.csprojAssemblyReference.cache
+C:\Users\gogom\source\repos\SumGenerator\obj\Debug\SumGenerator.exe
+C:\Users\gogom\source\repos\SumGenerator\obj\Debug\SumGenerator.pdb

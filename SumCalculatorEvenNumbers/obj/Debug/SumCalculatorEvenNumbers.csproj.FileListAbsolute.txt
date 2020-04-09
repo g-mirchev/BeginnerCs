@@ -1,0 +1,6 @@
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorEvenNumbers\bin\Debug\SumCalculatorEvenNumbers.exe.config
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorEvenNumbers\bin\Debug\SumCalculatorEvenNumbers.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorEvenNumbers\bin\Debug\SumCalculatorEvenNumbers.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorEvenNumbers\obj\Debug\SumCalculatorEvenNumbers.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorEvenNumbers\obj\Debug\SumCalculatorEvenNumbers.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorEvenNumbers\obj\Debug\SumCalculatorEvenNumbers.pdb

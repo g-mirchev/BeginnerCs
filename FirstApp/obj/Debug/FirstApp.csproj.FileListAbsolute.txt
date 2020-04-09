@@ -1,0 +1,12 @@
+C:\Users\gogom\source\repos\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Users\gogom\source\repos\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\gogom\source\repos\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\gogom\source\repos\FirstApp\obj\Debug\FirstApp.csprojAssemblyReference.cache
+C:\Users\gogom\source\repos\FirstApp\obj\Debug\FirstApp.exe
+C:\Users\gogom\source\repos\FirstApp\obj\Debug\FirstApp.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\FirstApp\bin\Debug\FirstApp.exe.config
+C:\K.G\DOCUMENTS\C#\BeginnerCs\FirstApp\bin\Debug\FirstApp.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\FirstApp\bin\Debug\FirstApp.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\FirstApp\obj\Debug\FirstApp.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\C#\BeginnerCs\FirstApp\obj\Debug\FirstApp.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\FirstApp\obj\Debug\FirstApp.pdb

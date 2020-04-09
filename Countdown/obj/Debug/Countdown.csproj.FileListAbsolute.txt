@@ -1,0 +1,5 @@
+C:\K.G\DOCUMENTS\C#\BeginnerCs\Countdown\bin\Debug\Countdown.exe.config
+C:\K.G\DOCUMENTS\C#\BeginnerCs\Countdown\bin\Debug\Countdown.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\Countdown\bin\Debug\Countdown.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\Countdown\obj\Debug\Countdown.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\Countdown\obj\Debug\Countdown.pdb

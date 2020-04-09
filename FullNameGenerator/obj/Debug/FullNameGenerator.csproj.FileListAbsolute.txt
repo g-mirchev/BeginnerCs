@@ -1,0 +1,6 @@
+C:\Users\gogom\source\repos\FullNameGenerator\bin\Debug\FullNameGenerator.exe.config
+C:\Users\gogom\source\repos\FullNameGenerator\bin\Debug\FullNameGenerator.exe
+C:\Users\gogom\source\repos\FullNameGenerator\bin\Debug\FullNameGenerator.pdb
+C:\Users\gogom\source\repos\FullNameGenerator\obj\Debug\FullNameGenerator.exe
+C:\Users\gogom\source\repos\FullNameGenerator\obj\Debug\FullNameGenerator.pdb
+C:\Users\gogom\source\repos\FullNameGenerator\obj\Debug\FullNameGenerator.csprojAssemblyReference.cache
