@@ -1,0 +1,6 @@
+C:\K.G\DOCUMENTS\C#\BeginnerCs\DivisionCounter\bin\Debug\DivisionCounter.exe.config
+C:\K.G\DOCUMENTS\C#\BeginnerCs\DivisionCounter\bin\Debug\DivisionCounter.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\DivisionCounter\bin\Debug\DivisionCounter.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\DivisionCounter\obj\Debug\DivisionCounter.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\C#\BeginnerCs\DivisionCounter\obj\Debug\DivisionCounter.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\DivisionCounter\obj\Debug\DivisionCounter.pdb
