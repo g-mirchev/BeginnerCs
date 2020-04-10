@@ -23,7 +23,7 @@ namespace SquareRootCalculator
 
                     Console.WriteLine(Math.Sqrt(num));
                 }
-                catch (Exception ex)
+                catch (FormatException ex)
                 {
                     Console.WriteLine(ex.Message);
                 }

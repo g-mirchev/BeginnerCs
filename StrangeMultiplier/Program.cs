@@ -15,9 +15,15 @@ namespace StrangeMultiplier
         static void Main(string[] args)
         {
             do
-            { 
-                Console.WriteLine("Enter your number between 1 and 100: ");
-                int number = Convert.ToInt32(Console.ReadLine());
+            {
+                int number;
+
+                while (true)
+                {
+                    Console.WriteLine("Enter your number between 1 and 100: ");
+                    if (int.TryParse(Console.ReadLine(), out number) && number >= 1 && number <= 100) break;
+                    Console.WriteLine("Error! Invalid entry, please try again..");
+                }
 
                 if (number > 50) 
                 {
@@ -34,6 +40,7 @@ namespace StrangeMultiplier
                 {
                     Console.WriteLine(number * 5);
                 }
+
                 Console.WriteLine("Press Any Key to restart or Esc to quit..");
             } while (Console.ReadKey(true).Key != ConsoleKey.Escape);
         }

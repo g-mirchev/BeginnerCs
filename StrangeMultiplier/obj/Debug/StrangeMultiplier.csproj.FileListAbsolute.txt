@@ -4,3 +4,9 @@ C:\Users\gogom\source\repos\StrangeMultiplier\bin\Debug\StrangeMultiplier.pdb
 C:\Users\gogom\source\repos\StrangeMultiplier\obj\Debug\StrangeMultiplier.csprojAssemblyReference.cache
 C:\Users\gogom\source\repos\StrangeMultiplier\obj\Debug\StrangeMultiplier.exe
 C:\Users\gogom\source\repos\StrangeMultiplier\obj\Debug\StrangeMultiplier.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\StrangeMultiplier\bin\Debug\StrangeMultiplier.exe.config
+C:\K.G\DOCUMENTS\C#\BeginnerCs\StrangeMultiplier\bin\Debug\StrangeMultiplier.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\StrangeMultiplier\bin\Debug\StrangeMultiplier.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\StrangeMultiplier\obj\Debug\StrangeMultiplier.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\C#\BeginnerCs\StrangeMultiplier\obj\Debug\StrangeMultiplier.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\StrangeMultiplier\obj\Debug\StrangeMultiplier.pdb

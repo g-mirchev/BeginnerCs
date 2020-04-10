@@ -16,8 +16,13 @@ namespace DivisionCounter
         {
             do
             {
-                Console.WriteLine("Enter your number: ");
-                double number = Convert.ToDouble(Console.ReadLine());
+                double number;
+                while (true)
+                {
+                    Console.WriteLine("Enter your number: ");
+                    if (double.TryParse(Console.ReadLine(), out number)) break;
+                    Console.WriteLine("Error! Invalid entry, please try again..");
+                }
 
                 int count = CountDivisions(number);
 

@@ -15,12 +15,22 @@ namespace PickYourColourString
         static void Main(string[] args)
         {
             do
-            { 
+            {
+                Console.ForegroundColor = ConsoleColor.Gray;
+
                 Console.WriteLine("Enter your random string: ");
                 string sentence = Console.ReadLine();
 
-                Console.WriteLine("Coosey your colour: r for Red, g for Green, o for Other");
-                char color = Convert.ToChar(Console.ReadLine().ToLower());
+                char color;
+
+                while (true)
+                {
+                    Console.WriteLine("Coosey your colour: r for Red, g for Green, o for Other");
+                    if (char.TryParse(Console.ReadLine(), out color)) break;
+                    Console.WriteLine("Error! Invalid entry, please try again..");
+                }
+
+                color = char.ToLower(color);
 
                 if (color == 'r')
                 {
@@ -36,6 +46,9 @@ namespace PickYourColourString
                 }
 
                 Console.WriteLine(sentence);
+
+                Console.ForegroundColor = ConsoleColor.Gray;
+
                 Console.WriteLine("Press Any Key to restart or Esc to quit..");
             } while (Console.ReadKey(true).Key != ConsoleKey.Escape);
         }

@@ -14,9 +14,14 @@ namespace DaysInMonth
         static void Main(string[] args)
         {
             do
-            { 
-                Console.WriteLine("Enter the month number from 1 to 12");
-                int month = Convert.ToInt32(Console.ReadLine());
+            {
+                int month;
+                while (true)
+                {
+                    Console.WriteLine("Enter the month number from 1 to 12");
+                    if (int.TryParse(Console.ReadLine(), out month)) break;
+                    Console.WriteLine("Error! Invalid entry, please try again..");
+                }
 
                 switch (month)
                 {

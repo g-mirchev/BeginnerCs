@@ -16,9 +16,13 @@ namespace Countdown
         {
             do
             {
-                Console.WriteLine("Enter number n that is greater than 1: ");
-                int n = Convert.ToInt32(Console.ReadLine());
-
+                int n;
+                while (true)
+                {
+                    Console.WriteLine("Enter number n that is greater than 1: ");
+                    if (int.TryParse(Console.ReadLine(), out n) && n > 1) break;
+                    Console.WriteLine("Error! Invalid entry, please try again..");
+                }
                 for(int i = n; i >= 1; i--)
                 {
                     Console.WriteLine(i);

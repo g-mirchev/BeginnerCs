@@ -14,12 +14,23 @@ namespace GreaterNumber
         static void Main(string[] args)
         {
             do
-            { 
-                Console.WriteLine("Enter the first number: ");
-                int first = Convert.ToInt32(Console.ReadLine());
+            {
+                int first;
+                int second;
 
-                Console.WriteLine("Enter the second number: ");
-                int second = Convert.ToInt32(Console.ReadLine());
+                while (true)
+                {
+                    Console.WriteLine("Enter the first number: ");
+                    if (int.TryParse(Console.ReadLine(), out first)) break;
+                    Console.WriteLine("Error! Invalid entry, please try again..");
+                }
+
+                while (true)
+                {
+                    Console.WriteLine("Enter the second number: ");
+                    if (int.TryParse(Console.ReadLine(), out second)) break;
+                    Console.WriteLine("Error! Invalid entry, please try again..");
+                }
 
                 string resultString = "The greater number is ";
 

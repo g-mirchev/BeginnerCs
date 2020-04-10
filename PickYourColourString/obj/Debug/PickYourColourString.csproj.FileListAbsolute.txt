@@ -3,3 +3,9 @@ C:\Users\gogom\source\repos\PickYourColourString\bin\Debug\PickYourColourString.
 C:\Users\gogom\source\repos\PickYourColourString\bin\Debug\PickYourColourString.pdb
 C:\Users\gogom\source\repos\PickYourColourString\obj\Debug\PickYourColourString.exe
 C:\Users\gogom\source\repos\PickYourColourString\obj\Debug\PickYourColourString.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\PickYourColourString\bin\Debug\PickYourColourString.exe.config
+C:\K.G\DOCUMENTS\C#\BeginnerCs\PickYourColourString\bin\Debug\PickYourColourString.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\PickYourColourString\bin\Debug\PickYourColourString.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\PickYourColourString\obj\Debug\PickYourColourString.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\PickYourColourString\obj\Debug\PickYourColourString.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\PickYourColourString\obj\Debug\PickYourColourString.csprojAssemblyReference.cache
