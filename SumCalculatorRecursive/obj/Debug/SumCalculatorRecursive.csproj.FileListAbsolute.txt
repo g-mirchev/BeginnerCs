@@ -1,0 +1,6 @@
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorRecursive\bin\Debug\SumCalculatorRecursive.exe.config
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorRecursive\bin\Debug\SumCalculatorRecursive.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorRecursive\bin\Debug\SumCalculatorRecursive.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorRecursive\obj\Debug\SumCalculatorRecursive.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorRecursive\obj\Debug\SumCalculatorRecursive.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorRecursive\obj\Debug\SumCalculatorRecursive.pdb

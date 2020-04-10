@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace SquareRootCalculator
 {
+    /*
+     * Calculates the square root of the user input.
+     * Uses try-catch to demonstrate exception handling
+     */
     class Program
     {
         static void Main(string[] args)

@@ -25,7 +25,8 @@ namespace RefOutValue
                 Console.WriteLine($"After ChangeAndWrite number value is {number}");
 
                 ChangeRef(ref number);
-                Console.WriteLine($"After CangeRef number value is {number}");
+                Console.WriteLine($"After CangeRef number value is {number}")
+
                 Console.WriteLine("Press Any Key to restart or Esc to quit..");
             } while (Console.ReadKey(true).Key != ConsoleKey.Escape);
         }
