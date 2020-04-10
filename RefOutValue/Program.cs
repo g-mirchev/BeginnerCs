@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace RefOutValue
 {
+    /*
+     * Demonstrates the use of Ref and Out keywords when used with a value
+     */
     class Program
     {
         static void Main(string[] args)
