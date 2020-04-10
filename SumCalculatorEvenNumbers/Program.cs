@@ -14,9 +14,15 @@ namespace SumCalculatorEvenNumbers
         static void Main(string[] args)
         {
             do
-            { 
-                Console.WriteLine("Enter the upper border number n: ");
-                int n = Convert.ToInt32(Console.ReadLine());
+            {
+                int n;
+
+                while (true)
+                {
+                    Console.WriteLine("Enter the upper border number n: ");
+                    if (int.TryParse(Console.ReadLine(), out n)) break;
+                    Console.WriteLine("Error! Invalid entry, please try again..");
+                }
 
                 int sum = 2;
                 int startingNumber = 4;

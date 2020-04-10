@@ -15,11 +15,22 @@ namespace SumCalculatorRecursive
         {
             do
             {
-                Console.WriteLine("Enter number n: ");
-                int n = Convert.ToInt32(Console.ReadLine());
+                int n;
+                int m;
 
-                Console.WriteLine("Enter number m: ");
-                int m = Convert.ToInt32(Console.ReadLine());
+                while (true)
+                {
+                    Console.WriteLine("Enter the first number:");
+                    if (int.TryParse(Console.ReadLine(), out n)) break;
+                    Console.WriteLine("Error! Invalid entry, please try again..");
+                }
+
+                while (true)
+                {
+                    Console.WriteLine("Enter the second number (must be greater than the first):");
+                    if (int.TryParse(Console.ReadLine(), out m) && m > n) break;
+                    Console.WriteLine("Error! Invalid entry, please try again..");
+                }
 
                 int sum = CalculateSumRecursively(n, m);
 

@@ -14,16 +14,27 @@ namespace SumGenerator
         static void Main(string[] args)
         {
             do
-            { 
-                Console.WriteLine("Write the first integer:");
-                int first = Convert.ToInt32(Console.ReadLine());
+            {
+                int n;
+                int m;
 
-                Console.WriteLine("Write the second integer:");
-                int second = Convert.ToInt32(Console.ReadLine());
+                while (true)
+                {
+                    Console.WriteLine("Enter the first number:");
+                    if (int.TryParse(Console.ReadLine(), out n)) break;
+                    Console.WriteLine("Error! Invalid entry, please try again..");
+                }
 
-                int result = first + second;
+                while (true)
+                {
+                    Console.WriteLine("Enter the second number:");
+                    if (int.TryParse(Console.ReadLine(), out m)) break;
+                    Console.WriteLine("Error! Invalid entry, please try again..");
+                }
 
-                Console.WriteLine($"The result is {result}");
+                int sum = n + m;
+
+                Console.WriteLine($"The result is {sum}");
 
                 Console.WriteLine("Press Any Key to restart or Esc to quit..");
             } while (Console.ReadKey(true).Key != ConsoleKey.Escape);

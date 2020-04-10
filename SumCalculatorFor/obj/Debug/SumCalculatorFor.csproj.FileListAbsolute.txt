@@ -3,3 +3,4 @@ C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorFor\bin\Debug\SumCalculatorFor.exe
 C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorFor\bin\Debug\SumCalculatorFor.pdb
 C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorFor\obj\Debug\SumCalculatorFor.exe
 C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorFor\obj\Debug\SumCalculatorFor.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\SumCalculatorFor\obj\Debug\SumCalculatorFor.csprojAssemblyReference.cache
