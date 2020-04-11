@@ -15,24 +15,28 @@ namespace SumCalculatorEvenNumbers
         {
             do
             {
-                int n;
+                uint n;
 
                 while (true)
                 {
-                    Console.WriteLine("Enter the upper border number n: ");
-                    if (int.TryParse(Console.ReadLine(), out n)) break;
+                    Console.WriteLine("Enter the upper border number n (non-negative values only): ");
+                    if (uint.TryParse(Console.ReadLine(), out n)) break;
                     Console.WriteLine("Error! Invalid entry, please try again..");
                 }
 
-                int sum = 2;
+                long sum = 0;
                 int startingNumber = 4;
-
-                do
+                
+                if(n >= 2)
                 {
-                    sum += startingNumber;
-                    startingNumber += 2;
-                } while (startingNumber <= n);
-
+                    sum = 2;
+                    while (startingNumber <= n)
+                        {
+                            sum += startingNumber;
+                            startingNumber += 2;
+                        }
+                }
+                
                 Console.WriteLine($"Sum of all the even numbers to n is {sum}");
 
                 Console.WriteLine("Press Any Key to restart or Esc to quit..");
