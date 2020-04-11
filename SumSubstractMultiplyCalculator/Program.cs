@@ -42,19 +42,19 @@ namespace SumSubstractMultiplyCalculator
 
         public static void Sum(int first, int second)
         {
-            int result = first + second;
+            long result = first + second;
             Console.WriteLine($"Sum result: {result}");
         }
 
         public static void Substract(int first, int second)
         {
-            int result = first - second;
+            long result = first - second;
             Console.WriteLine($"Multiplication result: {result}");
         }
 
         public static void Multiply(int first, int second)
         {
-            int result = first * second;
+            long result = first * second;
             Console.WriteLine($"Multiplication result: {result}");
         }
     }

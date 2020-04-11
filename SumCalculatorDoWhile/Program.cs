@@ -33,7 +33,7 @@ namespace SumCalculatorDoWhile
                     Console.WriteLine("Error! Invalid entry, please try again..");
                 }
 
-                int sum = 0;
+                long sum = 0;
 
                 do
                 {

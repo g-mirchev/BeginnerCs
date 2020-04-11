@@ -32,7 +32,7 @@ namespace SumGenerator
                     Console.WriteLine("Error! Invalid entry, please try again..");
                 }
 
-                int sum = n + m;
+                long sum = n + m;
 
                 Console.WriteLine($"The result is {sum}");
 

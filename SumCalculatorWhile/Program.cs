@@ -33,7 +33,7 @@ namespace SumCalculatorWhile
                     Console.WriteLine("Error! Invalid entry, please try again..");
                 }
 
-                int sum = 0;
+                long sum = 0;
 
                 while (n <= m)
                 {

@@ -32,7 +32,7 @@ namespace SumCalculatorRecursive
                     Console.WriteLine("Error! Invalid entry, please try again..");
                 }
 
-                int sum = CalculateSumRecursively(n, m);
+                long sum = CalculateSumRecursively(n, m);
 
                 Console.WriteLine(sum);
 
@@ -40,9 +40,9 @@ namespace SumCalculatorRecursive
             } while (Console.ReadKey(true).Key != ConsoleKey.Escape);
         }
 
-        public static int CalculateSumRecursively(int n, int m)
+        public static long CalculateSumRecursively(int n, int m)
         {
-            int sum = n;
+            long sum = n;
             
             if(n < m)
             {
