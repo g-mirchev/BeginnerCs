@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumCalculatorRecursive", ".
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisionCounter", "..\DivisionCounter\DivisionCounter.csproj", "{42A9FA9B-C67B-4905-B2FE-A6298BE6D71D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNuimbersPrinter", "..\RandomNuimbersPrinter\RandomNuimbersPrinter.csproj", "{1153FA80-62BA-42DF-8B6A-D448AE402DED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{42A9FA9B-C67B-4905-B2FE-A6298BE6D71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42A9FA9B-C67B-4905-B2FE-A6298BE6D71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42A9FA9B-C67B-4905-B2FE-A6298BE6D71D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1153FA80-62BA-42DF-8B6A-D448AE402DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1153FA80-62BA-42DF-8B6A-D448AE402DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1153FA80-62BA-42DF-8B6A-D448AE402DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1153FA80-62BA-42DF-8B6A-D448AE402DED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

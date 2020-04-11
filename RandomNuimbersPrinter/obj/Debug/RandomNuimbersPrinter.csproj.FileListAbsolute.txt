@@ -1,0 +1,6 @@
+C:\K.G\DOCUMENTS\C#\BeginnerCs\RandomNuimbersPrinter\bin\Debug\RandomNuimbersPrinter.exe.config
+C:\K.G\DOCUMENTS\C#\BeginnerCs\RandomNuimbersPrinter\bin\Debug\RandomNuimbersPrinter.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\RandomNuimbersPrinter\bin\Debug\RandomNuimbersPrinter.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\RandomNuimbersPrinter\obj\Debug\RandomNuimbersPrinter.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\C#\BeginnerCs\RandomNuimbersPrinter\obj\Debug\RandomNuimbersPrinter.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\RandomNuimbersPrinter\obj\Debug\RandomNuimbersPrinter.pdb
