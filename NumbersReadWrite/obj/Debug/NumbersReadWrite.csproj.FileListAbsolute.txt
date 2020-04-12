@@ -1,0 +1,6 @@
+C:\K.G\DOCUMENTS\C#\BeginnerCs\NumbersReadWrite\bin\Debug\NumbersReadWrite.exe.config
+C:\K.G\DOCUMENTS\C#\BeginnerCs\NumbersReadWrite\bin\Debug\NumbersReadWrite.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\NumbersReadWrite\bin\Debug\NumbersReadWrite.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\NumbersReadWrite\obj\Debug\NumbersReadWrite.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\C#\BeginnerCs\NumbersReadWrite\obj\Debug\NumbersReadWrite.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\NumbersReadWrite\obj\Debug\NumbersReadWrite.pdb
