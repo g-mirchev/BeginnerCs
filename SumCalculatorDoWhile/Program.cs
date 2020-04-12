@@ -35,6 +35,10 @@ namespace SumCalculatorDoWhile
 
                 long sum = 0;
 
+                /*
+                 * add n to sum and increment it by 1 and then check if
+                 * n is less than or equal to m, repeat until n is greater than m
+                 */
                 do
                 {
                     sum += n;

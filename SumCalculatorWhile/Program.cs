@@ -35,6 +35,10 @@ namespace SumCalculatorWhile
 
                 long sum = 0;
 
+                /*
+                 * If n is initially less than or equal to m add n to the sum 
+                 * and increment it with each iteration until n is greater than m
+                 */
                 while (n <= m)
                 {
                     sum += n;

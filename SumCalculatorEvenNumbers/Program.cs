@@ -27,9 +27,16 @@ namespace SumCalculatorEvenNumbers
                 long sum = 0;
                 int startingNumber = 4;
                 
+                /*
+                 * if n is greater than 2 make the initial sum 2
+                 */
                 if(n >= 2)
                 {
                     sum = 2;
+                    /*
+                     * if starting number is less than or equal to n add startingNumber to sum
+                     * and increment it by 2 untill startingNumber is greater than n
+                     */
                     while (startingNumber <= n)
                         {
                             sum += startingNumber;

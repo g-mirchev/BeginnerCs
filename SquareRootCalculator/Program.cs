@@ -16,6 +16,12 @@ namespace SquareRootCalculator
         {
             do
             {
+                /*
+                 * try to get input from user. If the input is not convertable to int
+                 * the program will catch an exception (This is an example to demonstrate exception
+                 * handling, I strongly reccomend using int.TryParse() when reading user input as this
+                 * method is a bit overkill in my opinion.
+                 */
                 try
                 {
                     Console.WriteLine("Enter your number: ");

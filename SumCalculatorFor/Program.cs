@@ -35,6 +35,10 @@ namespace SumCalculatorFor
 
                 long sum = 0;
 
+                /*
+                 * Let i be equal to n initially if it is less than or equal to m add it to the sum 
+                 * and increment i with each iteration until i is greater than m
+                 */
                 for(int i = n; i <= m; i++)
                 {
                     sum += i;

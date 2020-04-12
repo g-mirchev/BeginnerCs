@@ -40,6 +40,11 @@ namespace SumCalculatorRecursive
             } while (Console.ReadKey(true).Key != ConsoleKey.Escape);
         }
 
+        /*
+         * Assign the initial sum value to n, if n is equal to m return the sum
+         * if not, call the method again with the incremented value and add that return to the sum
+         * repeat untill n is equal to m
+         */
         public static long CalculateSumRecursively(int n, int m)
         {
             long sum = n;

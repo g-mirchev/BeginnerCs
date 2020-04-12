@@ -40,18 +40,27 @@ namespace SumSubstractMultiplyCalculator
             } while (Console.ReadKey(true).Key != ConsoleKey.Escape);
         }
 
+        /*
+         * Calculate the sum and print it
+         */
         public static void Sum(int first, int second)
         {
             long result = first + second;
             Console.WriteLine($"Sum result: {result}");
         }
 
+        /*
+         * Calculate the substraction and print it
+         */
         public static void Substract(int first, int second)
         {
             long result = first - second;
             Console.WriteLine($"Multiplication result: {result}");
         }
 
+        /*
+         * Calculate the multiplication and print it
+         */
         public static void Multiply(int first, int second)
         {
             long result = first * second;

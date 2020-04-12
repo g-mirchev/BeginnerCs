@@ -25,6 +25,10 @@ namespace StrangeMultiplier
                     Console.WriteLine("Error! Invalid entry, please try again..");
                 }
 
+                /*
+                 * if the number is greater than 50 multiply it by 2 if it's even or 3 if it's odd
+                 * if it's less than or equal to 50 multiply it by 5
+                 */
                 if (number > 50) 
                 {
                     if(number % 2 == 0)
