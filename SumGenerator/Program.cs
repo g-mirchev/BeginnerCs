@@ -21,7 +21,7 @@ namespace SumGenerator
                 while (true)
                 {
                     Console.WriteLine("Enter the first number:");
-                    if (int.TryParse(Console.ReadLine(), out n)) break;
+                    if (int.TryParse(Console.ReadLine(), out n)) break;         // try to get user input until the format is correct
                     Console.WriteLine("Error! Invalid entry, please try again..");
                 }
 
