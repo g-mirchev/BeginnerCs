@@ -20,8 +20,8 @@ namespace NameSeperator
                 string fullName = Console.ReadLine();
 
                 int blankPosition = fullName.IndexOf(' ');
-                string name = fullName.Substring(0, blankPosition);
-                string lastName = fullName.Substring(blankPosition + 1);
+                string name = fullName.Substring(0, blankPosition);         // copy the string up to the blank position
+                string lastName = fullName.Substring(blankPosition + 1);    // copy the string after the blank position
 
                 Console.WriteLine(name);
                 Console.WriteLine(lastName);

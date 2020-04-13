@@ -27,7 +27,7 @@ namespace SquareRootCalculator
                     Console.WriteLine("Enter your number: ");
                     int num = Convert.ToInt32(Console.ReadLine());
 
-                    Console.WriteLine(Math.Sqrt(num));
+                    Console.WriteLine(Math.Sqrt(num));      // calculate the square root of num
                 }
                 catch (FormatException ex)
                 {

@@ -21,7 +21,7 @@ namespace FullNameGenerator
                 Console.WriteLine("What is your last name:");
                 string lastName = Console.ReadLine();
 
-                string fullName = name + " " + lastName;
+                string fullName = name + " " + lastName;        // concatinate the two strings with an empty space in between
                 Console.WriteLine($"Your full name is: {fullName}");
 
                 Console.WriteLine("Press Any Key to restart or Esc to quit..");

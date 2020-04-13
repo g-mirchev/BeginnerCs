@@ -34,6 +34,10 @@ namespace GreaterNumber
 
                 string resultString = "The greater number is ";
 
+                /*
+                 * Check if the first number is greater than the seccond,
+                 * if not check if it's smaller, if not decide that they are equal
+                 */
                 if(first > second)
                 {
                     Console.WriteLine(resultString + first);
@@ -46,6 +50,7 @@ namespace GreaterNumber
                 {
                     Console.WriteLine("The numbers are equal");
                 }
+
                 Console.WriteLine("Press Any Key to restart or Esc to quit..");
             } while (Console.ReadKey(true).Key != ConsoleKey.Escape);
         }

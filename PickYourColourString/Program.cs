@@ -26,12 +26,15 @@ namespace PickYourColourString
                 while (true)
                 {
                     Console.WriteLine("Coosey your colour: r for Red, g for Green, o for Other");
-                    if (char.TryParse(Console.ReadLine(), out color)) break;
+                    if (char.TryParse(Console.ReadLine(), out color) && (color == 'r' || color == 'g' || color == 'o')) break;
                     Console.WriteLine("Error! Invalid entry, please try again..");
                 }
 
                 color = char.ToLower(color);
-
+                
+                /*
+                 * Change the color of the string based on char value
+                 */
                 if (color == 'r')
                 {
                     Console.ForegroundColor = ConsoleColor.Red;

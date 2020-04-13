@@ -23,6 +23,12 @@ namespace DaysInMonth
                     Console.WriteLine("Error! Invalid entry, please try again..");
                 }
 
+                /*
+                 * If the user has picked a long month print out 31 days,
+                 * if the user has picked a short month, print out 30 days,
+                 * if the user has picked February print out 28 or 29 days,
+                 * If neither of those, the default case will notify the user of their mistake
+                 */
                 switch (month)
                 {
                     case 1: case 3: case 5:
@@ -41,6 +47,7 @@ namespace DaysInMonth
                         Console.WriteLine("Your number is not between 1 and 12");
                         break;
                 }
+
                 Console.WriteLine("Press Any Key to restart or Esc to quit..");
             } while (Console.ReadKey(true).Key != ConsoleKey.Escape);
         }

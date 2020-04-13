@@ -25,24 +25,33 @@ namespace RefOutValue
                 Console.WriteLine($"After ChangeAndWrite number value is {number}");
 
                 ChangeRef(ref number);
-                Console.WriteLine($"After CangeRef number value is {number}")
+                Console.WriteLine($"After CangeRef number value is {number}");
 
                 Console.WriteLine("Press Any Key to restart or Esc to quit..");
             } while (Console.ReadKey(true).Key != ConsoleKey.Escape);
         }
 
+        /*
+         * Make a copy of the parsed number and change the copied value to 10
+         */
         public static void ChangeAndWrite(int number)
         {
             number = 10;
             Console.WriteLine($"Inside ChangeAndWrite number value is: {number}");
         }
 
+        /*
+         * Change the value of number to 25
+         */
         public static void ChangeRef(ref int number)
         {
             number = 25;
             Console.WriteLine($"Inside ChangeRef number value is: {number}");
         }
 
+        /*
+         *  Assign the number value to be 60
+         */
         public static void ChangeOut(out int number)
         {
             number = 60;

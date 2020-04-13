@@ -21,11 +21,11 @@ namespace SentenceTrimmer
 
                 int firstBlankPosition = sentence.IndexOf(' ');
 
-                string withoutFirstWord = sentence.Remove(0, firstBlankPosition + 1);
+                string withoutFirstWord = sentence.Remove(0, firstBlankPosition + 1);       // remove everything untill the first empty space 
 
                 int lastBlankPosition = withoutFirstWord.LastIndexOf(' ');
 
-                string withoutFirstAndLast = withoutFirstWord.Remove(lastBlankPosition);
+                string withoutFirstAndLast = withoutFirstWord.Remove(lastBlankPosition);    // remove everything after the last empty space
 
                 Console.WriteLine(withoutFirstAndLast);
 

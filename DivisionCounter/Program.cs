@@ -32,6 +32,9 @@ namespace DivisionCounter
             } while (Console.ReadKey(true).Key != ConsoleKey.Escape);
         }
 
+        /*
+         * Count the number of times the parsed number can be divided by 2 recusively
+         */
         public static int CountDivisions(double number)
         {
             int count = 0;

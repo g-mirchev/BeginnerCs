@@ -36,6 +36,10 @@ namespace RandomNuimbersPrinter
 
         }
 
+        /*
+         * Populate the int array located at the parsed reference 
+         * with random numbers from 1 to 101 to full capacity
+         */
         public static void PopulateArray(int[] numbers)
         {
             Random r = new Random();
@@ -47,6 +51,9 @@ namespace RandomNuimbersPrinter
             }
         }
 
+        /*
+         * Calculate the sum of all numbers of the parsed int array
+         */
         public static void CalculateSum(int[] numbers)
         {
             long sum = 0;

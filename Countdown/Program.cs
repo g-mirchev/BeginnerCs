@@ -23,10 +23,17 @@ namespace Countdown
                     if (int.TryParse(Console.ReadLine(), out n) && n > 1) break;
                     Console.WriteLine("Error! Invalid entry, please try again..");
                 }
+
+                /*
+                 * Let I be equal to n, if I is greater than one, print out i,
+                 * then decrement i by 1 and repeat until i is equal to 1 thus
+                 * printing each number from n to 1
+                 */
                 for(int i = n; i >= 1; i--)
                 {
                     Console.WriteLine(i);
                 }
+
                 Console.WriteLine("Press Any Key to restart or Esc to quit..");
             } while (Console.ReadKey(true).Key != ConsoleKey.Escape);
         }
