@@ -1,0 +1,6 @@
+C:\K.G\DOCUMENTS\C#\BeginnerCs\DirectoryHandler\bin\Debug\DirectoryHandler.exe.config
+C:\K.G\DOCUMENTS\C#\BeginnerCs\DirectoryHandler\bin\Debug\DirectoryHandler.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\DirectoryHandler\bin\Debug\DirectoryHandler.pdb
+C:\K.G\DOCUMENTS\C#\BeginnerCs\DirectoryHandler\obj\Debug\DirectoryHandler.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\C#\BeginnerCs\DirectoryHandler\obj\Debug\DirectoryHandler.exe
+C:\K.G\DOCUMENTS\C#\BeginnerCs\DirectoryHandler\obj\Debug\DirectoryHandler.pdb
